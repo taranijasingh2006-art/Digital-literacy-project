@@ -50,6 +50,7 @@ As a Student Digital Ambassador, this project demonstrates my understanding of d
   - Kaggle  
 - Work:
   - Created profiles
+  - Github profile link: https://github.com/Taranijasingh22/Taranijasingh22
   - Made a repository named after my username and filled it with my academic details    
   - Uploaded screenshots
   - Learned about the importance of digital presence 
